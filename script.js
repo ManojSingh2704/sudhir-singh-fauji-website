@@ -202,7 +202,7 @@ document.querySelector("[data-language-toggle]").addEventListener("click", () =>
 document.querySelector("[data-contact-form]").addEventListener("submit", (event) => {
   event.preventDefault();
   const data = new FormData(event.currentTarget);
-  const dictionary = translations[state.language];
+  const dictionary = translations.hi;
   const lines = [
     dictionary.whatsappIntro,
     `${dictionary.whatsappName}: ${data.get("name") || ""}`,
