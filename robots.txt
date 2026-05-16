@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ManojSingh2704.github.io/sudhir-singh-fauji-website/sitemap.xml
