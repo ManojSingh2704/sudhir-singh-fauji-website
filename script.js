@@ -33,7 +33,6 @@ const translations = {
     pledgeBody:
       "जो वर्दी पहनकर देश की रक्षा की, वही समर्पण अब अपने गांव के विकास के लिए।",
     pledgeOne: "हर परिवार से सीधा संवाद",
-    pledgeTwo: "पारदर्शी पंचायत खर्च",
     pledgeThree: "योजनाओं का सही लाभ",
     visionKicker: "हमारा संकल्प",
     visionTitle: "ग्राम कपूरपुर के लिए 10 वादे",
@@ -69,7 +68,7 @@ const translations = {
       ["सड़क निर्माण", "गांव की हर गली-मोहल्ले में पक्की सड़क और नाली निर्माण।"],
       ["कंप्यूटर कक्षा", "बच्चों के भविष्य के लिए गांव में कंप्यूटर शिक्षा की व्यवस्था।"],
       ["बिजली सुधार", "24 घंटे बिजली आपूर्ति और सोलर लाइट की व्यवस्था।"],
-      ["इंटरनेट", "गांव में हाई-स्पीड इंटरनेट और वाई-फाई ज़ोन की सुविधा।"],
+      ["पढ़ने वाले बच्चे", "गांव के पढ़ने वाले बच्चों के लिए शांत अध्ययन कक्ष और जरूरी शैक्षिक सहायता की व्यवस्था।"],
     ],
   },
   en: {
@@ -106,7 +105,6 @@ const translations = {
     pledgeBody:
       "The same dedication used to protect the nation will now serve the development of the village.",
     pledgeOne: "Direct dialogue with every family",
-    pledgeTwo: "Transparent panchayat spending",
     pledgeThree: "Proper benefit of public schemes",
     visionKicker: "Our Vision",
     visionTitle: "10 promises for Gram Kapoorpur",
@@ -142,7 +140,7 @@ const translations = {
       ["Road Construction", "Paved roads and drainage in every lane and neighborhood."],
       ["Computer Class", "Computer education in the village for children's future."],
       ["Electricity Improvement", "24-hour electricity supply and solar lights."],
-      ["Internet", "High-speed internet and village Wi-Fi zones."],
+      ["For Students", "A quiet study space and essential educational support for children who are studying."],
     ],
   },
 };
